@@ -6,8 +6,8 @@ A machine-learning project that predicts whether a flight will be delayed using 
 This project cleans real flight datasets, engineers features (time, airport, airline, weather), and trains ML models to forecast delays. The goal is to support smarter scheduling and improve travel reliability.
 
 ## 🧠 Key Features
-- Data cleaning & preprocessing  
-- Feature engineering (weather, time, airport trends)  
+- Data cleaning & preprocessing
+- Feature Selection
 - ML model training & evaluation  
 - Delay prediction for new flights  
 
@@ -18,7 +18,6 @@ This project cleans real flight datasets, engineers features (time, airport, air
 - Seaborn  
 - Pyspark 
 
-## ▶️ Usage
-```bash
-pip install -r requirements.txt
-jupyter notebook
+## 📂 Dataset
+
+
