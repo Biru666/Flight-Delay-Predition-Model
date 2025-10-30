@@ -12,10 +12,11 @@ This project cleans real flight datasets, engineers features (time, airport, air
 - Delay prediction for new flights  
 
 ## 📦 Technologies
-- Python, Pandas, NumPy  
+- Pandas 
 - Scikit-Learn  
-- Matplotlib / Seaborn  
-- Jupyter Notebook  
+- Matplotlib
+- Seaborn  
+- Pyspark 
 
 ## ▶️ Usage
 ```bash
